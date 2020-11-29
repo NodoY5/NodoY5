@@ -5,7 +5,7 @@
 
 ## How to reach me..
 
-### Discord : CosmosX#9769
+### Discord : BitQuote#9769
 ### Website : https://cosmosco.webnode.com/
 ### Roblox  : IronMan_anaxisuser
 
