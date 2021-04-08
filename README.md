@@ -33,7 +33,7 @@ I like to code in Javascript and Mighty Java and love creating websites and mobi
 <h3>Connect with me</h3>
 <span align="left">I'm mostly active on <a href="https://discord.com/users/742779128599675072/">Discord</a>. Feel free to DM me at <b>NodoY5#9769</b>.</span><br><br>
 <div>
-<a href="https://codeninja02.netlify.app/"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/portfolio_js4mxf.png"/></a>
+<a href="https://github.com/NodoY5"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/portfolio_js4mxf.png"/></a>
 <a href="https://www.instagram.com/bitquote_123/"><img alt="Instagram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/instagram_vkwnws.png"/></a>
 <a href="https://twitter.com/Y5Nodo"><img alt="Twitter" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/twitter_afmchs.png"/></a>
 </div>
