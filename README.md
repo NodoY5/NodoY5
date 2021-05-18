@@ -1,7 +1,7 @@
 <h3>Hye There 👋, I'm <a href="http://bitquoteco.ga" target="_blank">NodoY5</a>!</h2>
 <br>
 I'm NodoY5, A (Lazy) Programmer from India.<br>
-I'm skilled and comfortable working with React Native, Ionic and other frameworks and technologies.
+My development tech stack includes JavaScript, React.js, Node.js, Gatsby, Docker and the Google Cloud Platform - that includes Firebase, Cloud Functions, Cloud Run, Cloud SQL, Cloud Storage and GSuite.
 
 <br><br>
 I like to code in Javascript and Mighty Java and love creating websites and mobile applications. I also like anime and playing <a href="https://www.chess.com/member/nodoy5" target="_blank">chess</a>!
