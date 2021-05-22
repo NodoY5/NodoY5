@@ -1,4 +1,5 @@
 <h3>Hye There 👋, I'm <a href="http://bitquoteco.ga" target="_blank">NodoY5</a>!</h2>
+![](https://komarev.com/ghpvc/?username=NodoY5&color=red)
 <br>
 I'm NodoY5, A (Lazy) Programmer from India.<br>
 My development tech stack includes JavaScript, React.js, Node.js, Gatsby, Docker and the Google Cloud Platform - that includes Firebase, Cloud Functions, Cloud Run, Cloud SQL, Cloud Storage and GSuite.
