@@ -31,7 +31,7 @@ I like to code in Javascript and Mighty Java and love creating websites and mobi
 <img alt="React Native" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/reactnative_c6druv.svg"/>
 </div>
 <h3>Connect with me</h3>
-<span align="left">I'm mostly active on <a href="https://discord.com/users/742779128599675072/" target="_blank">Discord</a>. Feel free to DM me at <b>ПӨDӨY5#9769</b>.</span><br><br>
+<span align="left">I'm mostly active on <a href="https://discord.com/users/742779128599675072/" target="_blank">Discord</a>. Feel free to DM me at <b>ПӨDӨY5#9769</b> or mail me at <a href="mailto:aaravmehta59@outlook.com"><b>aaravmehta59@outlook.com</b></a>.</span><br><br>
 <div>
 <a href="https://github.com/NodoY5"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/portfolio_js4mxf.png"/></a>
 <a href="https://www.instagram.com/bitquote_123/"><img alt="Instagram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/instagram_vkwnws.png"/></a>
