@@ -9,7 +9,7 @@ I like to code in Javascript and Mighty Java and love creating websites and mobi
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=NodoY5&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodoY5&layout=compact&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
