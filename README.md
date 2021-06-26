@@ -37,3 +37,4 @@ I like to code in Javascript and Mighty Java and love creating websites and mobi
 <a href="https://www.instagram.com/bitquote_123/"><img alt="Instagram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/instagram_vkwnws.png"/></a>
 <a href="https://twitter.com/Y5Nodo"><img alt="Twitter" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/twitter_afmchs.png"/></a>
 </div>
+![Profile views](https://gpvc.arturio.dev/[NodoY5])
