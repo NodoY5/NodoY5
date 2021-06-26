@@ -9,10 +9,10 @@ I like to code in Javascript and Mighty Java and love creating websites and mobi
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=NodoY5&show_icons=true&theme=radical&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=NodoY5&show_icons=true&theme=outrun&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodoY5&layout=compact&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+      <img align="center" style="padding=0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodoY5&layout=compact&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=000000&hide_border=true&icon_color=00000&count_private=true" />
     </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@ I like to code in Javascript and Mighty Java and love creating websites and mobi
 <h3>Connect with me</h3>
 <span align="left">I'm mostly active on <a href="https://discord.com/users/742779128599675072/" target="_blank">Discord</a>. Feel free to DM me at <b>ПӨDӨY5#9769</b> or mail me at <a href="mailto:aaravmehta59@outlook.com"><b>aaravmehta59@outlook.com</b></a>.</span><br><br>
 <div>
-<a href="https://github.com/NodoY5"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/portfolio_js4mxf.png"/></a>
+<a href="https://nodoy5.vercel.app"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/portfolio_js4mxf.png"/></a>
 <a href="https://www.instagram.com/bitquote_123/"><img alt="Instagram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/instagram_vkwnws.png"/></a>
 <a href="https://twitter.com/Y5Nodo"><img alt="Twitter" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/twitter_afmchs.png"/></a>
 </div>
