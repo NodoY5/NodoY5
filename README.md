@@ -1,6 +1,6 @@
-<h3>Hye There 👋, I'm <a href="http://nodoy5.vercel.app" target="_blank">NodoY5</a>!</h2>
+<h3>Hye There 👋, I'm <a href="http://nodoy5.vercel.app" target="_blank">Aarav Mehta</a>!</h2>
 <br>
-I'm NodoY5, A Full Stack Programmer proudly from India.<br>
+I'm Aarav Mehta, A Full Stack Programmer proudly from India.<br>
 My development tech stack includes JavaScript, React.js, Node.js, Gatsby, Docker and the Google Cloud Platform - that includes Firebase, Cloud Functions, Cloud Run, Cloud SQL, Cloud Storage and GSuite.
 
 <br><br>
