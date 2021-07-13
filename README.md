@@ -41,7 +41,7 @@ const Aarav = {
 
 <details>
     <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=NodoY5&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodoY5&theme=tokyonight&hide=css">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NodoY5&theme=tokyonight">
 </details>
 <!-- Last updated on Tue Jul 13 2021 10:15:31 GMT+0000 (Coordinated Universal Time) ;-;-->
