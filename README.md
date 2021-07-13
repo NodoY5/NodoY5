@@ -1,39 +1,48 @@
-<h3>Hye There 👋, I'm <a href="http://nodoy5.vercel.app" target="_blank">Aarav Mehta</a>!</h2>
-<br>
-I'm Aarav Mehta, A Full Stack Programmer proudly from India.<br>
-My development tech stack includes JavaScript, React.js, Node.js, Gatsby, Docker and the Google Cloud Platform - that includes Firebase, Cloud Functions, Cloud Run, Cloud SQL, Cloud Storage and GSuite.
+<!-- You found this secret 👏 -->
+<!--
+    My secret things lol
+    
+    - I code more hours 
+    - I am a gamer too 
+    - I play minecraft, roblox, AMOUNG US ;-;
+    - This readme.md is created using GitHub Codespaces 👀
+    - I am also a YouTuber XD, make sure to sub ;-;
+-->
+    
+<h1 align="center">Who am I?</h1>
+<p align="center">Hello I'm Aarav Mehta. I mostly use Typescript and Javascript as a primary language to code with projects. My Development stack includes JavaScript, React.js, Node.js, Gatsby, Docker and the Google Cloud Platform - that includes Firebase, Cloud Functions, Cloud Run, Cloud SQL, Cloud Storage and GSuite.</p>
 
-<br><br>
-I like to code in Javascript and Mighty Java and love creating websites and mobile applications. I also like anime and playing <a href="https://www.chess.com/member/nodoy5" target="_blank">chess</a>!
-<br><br>
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=NodoY5&show_icons=true&theme=outrun&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodoY5&layout=compact&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=000000&hide_border=true&icon_color=00000&count_private=true" />
-    </td>
-  </tr>
-</table>
-<h3>Skills</h3>
-<div align="left">
-<img alt="HTML5" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/html_mfugxd.svg"/>
-<img alt="CSS3" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/css_bl7j3p.svg"/>
-<img alt="JavaScript" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/js_u9ykow.svg"/>
-<img alt="TypeScript" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/ts_rpz1m2.svg"/>
-</div>
-<div align="left">
-<img alt="MongoDB" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/mongodb_sbhr2y.svg"/>
-<img alt="React" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/react_lyvavg.svg"/>
-<img alt="Firebase" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/firebase_nj3ojv.svg"/>
-<img alt="NodeJS" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/nodejs_n5hmji.svg"/>
-<img alt="React Native" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/reactnative_c6druv.svg"/>
-</div>
-<h3>Connect with me</h3>
-<span align="left">I'm mostly active on <a href="https://discord.com/users/742779128599675072/" target="_blank">Discord</a>. Feel free to DM me at <b>ПӨDӨY5#9769</b> or mail me at <a href="mailto:aaravmehta59@outlook.com"><b>aaravmehta59@outlook.com</b></a>.</span><br><br>
+## Hello, Im Aarav <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+
+```js
+const Aarav = {
+    FullName: "Aarav Mehta" ,
+    Description: "Hello, My name is Aarav 😉. A Full Stack Developer from India.",
+    FavouriteLanguage: "Javascript/Typescript",
+    Repositories: {
+       Created: 25,
+       Contributed: 11
+    },
+    CreatedAt: "Tue, July 13",
+    Stars: 11,
+    FavouriteThings: ["GitHub <3", "VS Code", "React.js", "Docker", "Node.js"]
+}; //I'm a Object. UwU
+```
+<hr>
 <div>
-<a href="https://nodoy5.vercel.app"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/portfolio_js4mxf.png"/></a>
-<a href="https://www.instagram.com/bitquote_123/"><img alt="Instagram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/instagram_vkwnws.png"/></a>
-<a href="https://twitter.com/Y5Nodo"><img alt="Twitter" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/twitter_afmchs.png"/></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 </div>
+
+## Stats
+<hr>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NodoY5&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-5-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-11-blueviolet)
+
+<details>
+    <summary><b>GitHub</b> Activity</summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+</details>
+<!-- Last updated on Tue Jul 13 2021 10:15:31 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 13th July 2021 using magic</i> ✨
