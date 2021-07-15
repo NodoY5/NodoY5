@@ -6,7 +6,7 @@ Skills: JavaScript, React.js, Node.js, Gatsby, Docker and the Google Cloud Platf
 - 🔭 I’m currently working on Giva Bot 
 - 🌱 I’m currently learning Vue.js 
 - 👯 I’m looking to collaborate on Open Source 
-- 🤔 I’m looking for help with Javascript / Typescript 
+- 🤔 I’m looking to help with Javascript / Typescript 
 - 📫 How to reach me: Mail - aaravmehta59@outlook.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am Lazy 
