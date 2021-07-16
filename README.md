@@ -27,6 +27,7 @@ const Aarav = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/y5nodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y5nodo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16459745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16459745" height="30" width="40" /></a>
 <a href="https://instagram.com/bitquote_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bitquote_123" height="30" width="40" /></a>
 <a href="https://discord.gg/B6jqKDbWwU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="B6jqKDbWwU" height="30" width="40" /></a>
 </p>
