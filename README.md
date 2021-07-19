@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/y5nodo" target="blank"><img src="https://img.shields.io/twitter/follow/y5nodo?logo=twitter&style=for-the-badge" alt="y5nodo" /></a> </p>
 
-- 🔭 I’m currently working on [Giva Bot](https://giva-bot.vercel.app/)
+- 🔭 I’m currently working on [Nano Bot]
 
 - 🤝 I’m looking to help with **Javascript / HTML**
 
