@@ -40,4 +40,3 @@ const Aarav = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nodoy5&show_icons=true&theme=dark&hide_border=true&locale=en" alt="nodoy5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nodoy5&theme=dark" alt="nodoy5" /></p>
