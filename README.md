@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aarav Mehta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<p align="center">
+    <img style="text-align: center" src="https://discord.c99.nl/widget/theme-4/870609308751106058.png">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nodoy5&label=Profile%20views%20:&color=0e75b6&style=flat-square" alt="nodoy5" /> </p>
 
 <p align="left"> <a href="https://twitter.com/y5nodo" target="blank"><img src="https://img.shields.io/twitter/follow/y5nodo?logo=twitter&style=for-the-badge" alt="y5nodo" /></a> </p>
