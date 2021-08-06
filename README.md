@@ -6,8 +6,8 @@
 </p>
 
 <!-- Removed Twitter.. LOL -->
+![](https://komarev.com/ghpvc/?username=nodoy5&color=grey)
 
-<p align="left"> <a href="https://twitter.com/y5nodo" target="blank"><img src="https://img.shields.io/twitter/follow/y5nodo?logo=twitter&style=for-the-badge" alt="y5nodo" /></a> </p>
 
 - 🔭 I’m currently working on [My All New API!!](https://github.com/NodoY5/web/tree/main/api)
 
