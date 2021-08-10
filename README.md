@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=nodoy5&color=grey)
 
 
-- 🔭 I’m currently working on [My All New API!!](https://github.com/NodoY5/web/tree/main/api)
+- 🔭 I’m currently working on Bugs!
 
 - 🤝 I’m looking to help with **Javascript / HTML**
 
