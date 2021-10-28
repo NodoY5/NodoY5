@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=nodoy5&color=grey)
 
 
-- 🔭 I’m currently working on Bugs!
+- 🔭 I’m currently on a break. I will try to come bakc soon as possible.!
 
 - 🤝 I’m looking to help with **Javascript / HTML**
 
